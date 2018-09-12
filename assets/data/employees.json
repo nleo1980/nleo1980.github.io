@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "title": "Tom",
+        "eventColor": "#1976D2"
+    },
+    {
+        "id": "2",
+        "title": "Jerry",
+        "eventColor": "#b52626"
+    },
+    {
+        "id": "3",
+        "title": "Kitty",
+        "eventColor": "#5fb526"
+    },
+    {
+        "id": "4",
+        "title": "Test1",
+        "eventColor": "#0f0f0e"
+    },
+    {
+        "id": "5",
+        "title": "Test2",
+        "eventColor": "#eb0ceb"
+    }
+]
